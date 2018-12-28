@@ -252,28 +252,28 @@ var PostLink = function PostLink(props) {
       lineNumber: 14
     },
     __self: this
-  }, "My Blog"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+  }, "My Home Page"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(PostLink, {
-    title: "Hello Next.js",
+    title: "My Title1",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(PostLink, {
-    title: "Learn Next.js is awesome",
+    title: "My Title2",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(PostLink, {
-    title: "Deploy apps with Zeit",
+    title: "My Title3",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18

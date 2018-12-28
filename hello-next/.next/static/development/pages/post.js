@@ -9970,7 +9970,7 @@ var Content = Object(next_router__WEBPACK_IMPORTED_MODULE_1__["withRouter"])(fun
       lineNumber: 7
     },
     __self: this
-  }, "This is the blog post content."));
+  }, "This is the title post content."));
 });
 
 var Page = function Page(props) {

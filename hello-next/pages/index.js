@@ -11,11 +11,11 @@ const PostLink = (props) => (
 
 export default () => (  
   <Layout>
-    <h1>My Blog</h1>
+    <h1>My Home Page</h1>
     <ul>
-      <PostLink title="Hello Next.js"/>
-      <PostLink title="Learn Next.js is awesome"/>
-      <PostLink title="Deploy apps with Zeit"/>
+      <PostLink title="My Title1"/>
+      <PostLink title="My Title2"/>
+      <PostLink title="My Title3"/>
     </ul>
   </Layout>
 )

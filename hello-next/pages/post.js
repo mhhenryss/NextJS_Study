@@ -4,7 +4,7 @@ import Layout from '../components/MyLayout.js'
 const Content = withRouter((props) => (
   <div>
     <h1>{props.router.query.title}</h1>
-    <p>This is the blog post content.</p>
+    <p>This is the title post content.</p>
   </div>
 ))
 
