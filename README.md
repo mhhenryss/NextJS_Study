@@ -1,6 +1,18 @@
 # NextJS Study
 Learn Next.js
 
+##Download Project
 ```bash
-npm install --save next react react-dom
+git clone https://github.com/mhhenryss/NextJS_Study.git
 ```
+
+## How to run
+```bash
+$ cd hello-next
+
+$ npm install
+
+$ npm run dev
+```
+
+###Then go to `http://localhost:3000`
