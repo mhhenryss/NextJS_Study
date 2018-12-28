@@ -1,7 +1,7 @@
-# NextJS Study
+# Next.js Study
 Learn Next.js
 
-##Download Project
+## Download Project
 ```bash
 git clone https://github.com/mhhenryss/NextJS_Study.git
 ```
@@ -15,4 +15,4 @@ $ npm install
 $ npm run dev
 ```
 
-###Then go to `http://localhost:3000`
+### Then go to `http://localhost:3000`
