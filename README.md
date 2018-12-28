@@ -1,5 +1,5 @@
 # Next.js Study
-Learn Next.js
+Next.js是React官方推薦的一個基於React的簡易伺服器框架
 
 ## Download Project
 ```bash
