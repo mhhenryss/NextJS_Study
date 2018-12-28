@@ -9,7 +9,7 @@ git clone https://github.com/mhhenryss/NextJS_Study.git
 
 ## How to run
 ```bash
-$ cd hello-next
+$ npm hello-next
 
 $ npm install
 
